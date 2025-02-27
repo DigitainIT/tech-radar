@@ -94,28 +94,23 @@
       "active": true,
       "moved": 0
     },
+
     {
       "quadrant": 2,
-      "ring": 0,
-      "label": "AWS DynamoDB",
+      "ring": 2,
+      "label": "Wassabi S3",
       "active": true,
       "moved": 0
     },
+
     {
       "quadrant": 2,
-      "ring": 0,
-      "label": "AWS S3",
+      "ring": 3,
+      "label": "Apache Ignite",
       "active": true,
       "moved": 0
     },
-    {
-      "quadrant": 2,
-      "ring": 0,
-      "label": "Amazon ElastiCache",
-      "link": "https://engineering.zalando.com/tags/redis.html",
-      "active": true,
-      "moved": 0
-    },
+
     {
       "quadrant": 2,
       "ring": 2,
@@ -123,48 +118,15 @@
       "active": true,
       "moved": 0
     },
+
+
+
     {
       "quadrant": 2,
-      "ring": 1,
-      "label": "Amazon Neptune",
-      "active": true,
-      "moved": 2
-    },
-    {
-      "quadrant": 2,
-      "ring": 1,
-      "label": "Amazon Redshift",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 1,
-      "label": "Amazon SageMaker Feature Store",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 3,
-      "label": "Apache Cassandra",
-      "link": "https://engineering.zalando.com/tags/cassandra.html",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 3,
+      "ring": 0,
       "label": "Consul",
       "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 1,
-      "label": "Druid",
-      "active": true,
-      "moved": 0
+      "moved": 1
     },
     {
       "quadrant": 2,
@@ -174,34 +136,10 @@
       "active": true,
       "moved": 0
     },
-    {
-      "quadrant": 2,
-      "ring": 0,
-      "label": "Exasol",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 3,
-      "label": "HBase",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 1,
-      "label": "HDFS",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 3,
-      "label": "Hazelcast",
-      "active": true,
-      "moved": 0
-    },
+
+
+
+
     {
       "quadrant": 2,
       "ring": 3,
@@ -211,25 +149,26 @@
     },
     {
       "quadrant": 2,
-      "ring": 3,
+      "ring": 2,
       "label": "MongoDB",
       "active": true,
       "moved": 0
     },
     {
       "quadrant": 2,
-      "ring": 3,
+      "ring": 2,
       "label": "MySQL",
       "active": true,
       "moved": 0
     },
     {
       "quadrant": 2,
-      "ring": 3,
-      "label": "Oracle DB",
+      "ring": 0,
+      "label": "MSSQL",
       "active": true,
       "moved": 0
     },
+
     {
       "quadrant": 2,
       "ring": 0,
@@ -246,35 +185,17 @@
       "active": true,
       "moved": 0
     },
+
     {
       "quadrant": 2,
-      "ring": 3,
-      "label": "Solr",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 2,
-      "label": "Valkey",
+      "ring": 0,
+      "label": "KeyDB",
       "link": "https://engineering.zalando.com/tags/redis.html",
       "active": true,
       "moved": 0
     },
-    {
-      "quadrant": 2,
-      "ring": 3,
-      "label": "ZooKeeper",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 0,
-      "label": "AWS CloudFormation",
-      "active": true,
-      "moved": 0
-    },
+
+
     {
       "quadrant": 1,
       "ring": 0,
