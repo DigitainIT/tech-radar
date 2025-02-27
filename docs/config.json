@@ -29,6 +29,20 @@
     },
     {
       "quadrant": 2,
+      "ring": 0,
+      "label": "Oracle Cloud",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 1,
+      "label": "Azure Cloud",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
       "ring": 1,
       "label": "Hashicorp Vault",
       "active": true,
@@ -117,6 +131,20 @@
       "quadrant": 1,
       "ring": 0,
       "label": "Cloudflare",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Akamai",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "CDNetworks",
       "active": true,
       "moved": 0
     },
