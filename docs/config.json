@@ -18,13 +18,6 @@
     {
       "quadrant": 3,
       "ring": 2,
-      "label": "AWS Glue",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 2,
       "label": "AWS Lake Formation",
       "active": true,
       "moved": 0
@@ -99,6 +92,13 @@
       "quadrant": 2,
       "ring": 2,
       "label": "Wassabi S3",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 1,
+      "label": "Vault",
       "active": true,
       "moved": 0
     },
@@ -199,7 +199,14 @@
     {
       "quadrant": 1,
       "ring": 0,
-      "label": "AWS CloudFront",
+      "label": "Cloudflare",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 1,
+      "label": "Bunny CDN",
       "active": true,
       "moved": 0
     },
@@ -355,26 +362,20 @@
       "active": true,
       "moved": 0
     },
-    {
-      "quadrant": 0,
-      "ring": 0,
-      "label": "GraphQL",
-      "link": "https://engineering.zalando.com/tags/graphql.html",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 3,
-      "label": "Haskell",
-      "link": "https://engineering.zalando.com/tags/haskell.html",
-      "active": true,
-      "moved": 0
-    },
+
+
     {
       "quadrant": 0,
       "ring": 3,
       "label": "Java",
+      "link": "https://engineering.zalando.com/tags/java.html",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 3,
+      "label": "Java for Android",
       "link": "https://engineering.zalando.com/tags/java.html",
       "active": true,
       "moved": 0
@@ -411,13 +412,7 @@
       "active": true,
       "moved": 0
     },
-    {
-      "quadrant": 0,
-      "ring": 2,
-      "label": "R",
-      "active": true,
-      "moved": 0
-    },
+
     {
       "quadrant": 0,
       "ring": 3,
@@ -436,7 +431,7 @@
     },
     {
       "quadrant": 0,
-      "ring": 0,
+      "ring": 3,
       "label": "Swift",
       "link": "https://engineering.zalando.com/tags/swift.html",
       "active": true,
