@@ -154,13 +154,7 @@
       "active": true,
       "moved": 0
     },
-    {
-      "quadrant": 2,
-      "ring": 2,
-      "label": "MySQL",
-      "active": true,
-      "moved": 0
-    },
+
     {
       "quadrant": 2,
       "ring": 0,
@@ -392,6 +386,37 @@
       "active": true,
       "moved": 0
     },
+    {
+      "quadrant": 0,
+      "ring": 3,
+      "label": ".NET Framework (4.8)",
+      "link": "https://engineering.zalando.com/tags/javascript.html",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 3,
+      "label": "WCF service",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 3,
+      "label": "ASP .NET MVC",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": ".NET Framework >=8",
+      "link": "https://engineering.zalando.com/tags/javascript.html",
+      "active": true,
+      "moved": 0
+    },
+
     {
       "quadrant": 0,
       "ring": 0,
