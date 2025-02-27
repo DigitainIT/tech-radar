@@ -275,7 +275,7 @@
       "moved": 0
     },
     {
-      "quadrant": 1,
+      "quadrant": 3,
       "ring": 2,
       "label": "Kotlin Multiplatform",
       "active": true,
@@ -292,31 +292,19 @@
     {
       "quadrant": 1,
       "ring": 1,
-      "label": "Open Policy Agent",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 0,
-      "label": "OpenTelemetry",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 0,
-      "label": "Skipper",
+      "label": "Kyverno",
       "active": true,
       "moved": 0
     },
     {
       "quadrant": 1,
       "ring": 2,
-      "label": "Slurm",
+      "label": "OpenTelemetry",
       "active": true,
       "moved": 0
     },
+
+
     {
       "quadrant": 1,
       "ring": 1,
@@ -348,7 +336,7 @@
     },
     {
       "quadrant": 0,
-      "ring": 0,
+      "ring": 2,
       "label": "Go",
       "link": "https://engineering.zalando.com/tags/golang.html",
       "active": true,
@@ -376,6 +364,22 @@
       "quadrant": 0,
       "ring": 3,
       "label": "Java for Android",
+      "link": "https://engineering.zalando.com/tags/java.html",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 3,
+      "label": "Akka.NET",
+      "link": "https://engineering.zalando.com/tags/java.html",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 2,
+      "label": "AngularJS",
       "link": "https://engineering.zalando.com/tags/java.html",
       "active": true,
       "moved": 0
@@ -421,14 +425,7 @@
       "active": true,
       "moved": 0
     },
-    {
-      "quadrant": 0,
-      "ring": 0,
-      "label": "Scala",
-      "link": "https://engineering.zalando.com/tags/scala.html",
-      "active": true,
-      "moved": 0
-    },
+
     {
       "quadrant": 0,
       "ring": 3,
@@ -474,6 +471,15 @@
       "active": true,
       "moved": 0
     },
+    {
+      "quadrant": 2,
+      "ring": 2,
+      "label": "ScyllaDB",
+      "link": "https://engineering.zalando.com/tags/apache-kafka.html",
+      "active": true,
+      "moved": 0
+    },
+
     {
       "quadrant": 3,
       "ring": 0,
