@@ -429,6 +429,14 @@
     {
       "quadrant": 0,
       "ring": 0,
+      "label": ".NET",
+      "link": "https://engineering.zalando.com/tags/golang.html",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
       "label": "GraphQL",
       "link": "https://engineering.zalando.com/tags/graphql.html",
       "active": true,
@@ -444,7 +452,7 @@
     },
     {
       "quadrant": 0,
-      "ring": 0,
+      "ring": 3,
       "label": "Java",
       "link": "https://engineering.zalando.com/tags/java.html",
       "active": true,
