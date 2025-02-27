@@ -96,6 +96,27 @@
       "active": true,
       "moved": 0
     },
+    {
+      "quadrant": 2,
+      "ring": 1,
+      "label": "Bunny Storage",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 1,
+      "label": "Bunny Stream",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Oracle Object Storage(S3)",
+      "active": true,
+      "moved": 0
+    },
 
     {
       "quadrant": 2,
@@ -387,6 +408,15 @@
       "active": true,
       "moved": 0
     },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Kafka",
+      "link": "https://engineering.zalando.com/tags/apache-kafka.html",
+      "active": true,
+      "moved": 0
+    },
+    
     {
       "quadrant": 2,
       "ring": 2,
