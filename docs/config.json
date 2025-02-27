@@ -42,6 +42,27 @@
     },
     {
       "quadrant": 1,
+      "ring": 0,
+      "label": "VMware Vsphere",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 1,
+      "label": "Hyper-V",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 2,
+      "label": "Proxmox",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
       "ring": 1,
       "label": "Azure Cloud",
       "active": true,
