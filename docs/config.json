@@ -51,6 +51,49 @@
     },
     {
       "quadrant": 2,
+      "ring": 1,
+      "label": "Azure SQL Managed Instance",
+      "active": true,
+      "moved": 2
+    },
+    {
+      "quadrant": 2,
+      "ring": 1,
+      "label": "Azure PostgreSQL Flexible",
+      "active": true,
+      "moved": 2
+    },
+    {
+      "quadrant": 2,
+      "ring": 1,
+      "label": "Oracle PostgreSQL AS Service",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 1,
+      "label": "ClikHouse",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 2,
+      "label": "Trino",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 2,
+      "label": "MinIO",
+      "active": true,
+      "moved": 0
+    },
+
+    {
+      "quadrant": 2,
       "ring": 2,
       "label": "Thanos",
       "link": "https://thanos.io/",
@@ -99,7 +142,7 @@
     },
     {
       "quadrant": 1,
-      "ring": 3,
+      "ring": 1,
       "label": "CEPH",
       "link": "https://ceph.io/",
       "active": true,
@@ -448,6 +491,41 @@
       "link": "https://www.rabbitmq.com/",
       "active": true,
       "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "SSIS",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Apache Spark",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 2,
+      "label": "AirByte",
+      "active": true,
+      "moved": 2
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "AirFlow",
+      "active": true,
+      "moved": 2
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "DBt",
+      "active": true,
+      "moved": 2
     }
   ]
 }
