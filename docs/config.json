@@ -259,6 +259,14 @@
     },
     {
       "quadrant": 1,
+      "ring": 1,
+      "label": "Sentry",
+      "link": "https://sentry.digitain.tools",
+      "active": true,
+      "moved": 2
+    },
+    {
+      "quadrant": 1,
       "ring": 0,
       "label": "IIS",
       "link": "https://www.iis.net/",
