@@ -410,9 +410,9 @@
     },
     {
       "quadrant": 3,
-      "ring": 0,
-      "label": "Kafka",
-      "link": "https://engineering.zalando.com/tags/apache-kafka.html",
+      "ring": 2,
+      "label": "NATS",
+      "link": "https://nats.io",
       "active": true,
       "moved": 0
     },
