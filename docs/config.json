@@ -38,21 +38,21 @@
       "ring": 1,
       "label": "OvenmediaEngine",
       "active": true,
-      "moved": 0
+      "moved": 2
     },
     {
       "quadrant": 1,
       "ring": 2,
       "label": "NS1",
       "active": true,
-      "moved": 0
+      "moved": 2
     },
     {
       "quadrant": 2,
       "ring": 2,
       "label": "Wassabi S3",
       "active": true,
-      "moved": 0
+      "moved": 2
     },
     {
       "quadrant": 1,
@@ -73,14 +73,14 @@
       "ring": 1,
       "label": "Hyper-V",
       "active": true,
-      "moved": 0
+      "moved": 2
     },
     {
       "quadrant": 1,
       "ring": 2,
       "label": "Proxmox",
       "active": true,
-      "moved": 0
+      "moved": 2
     },
     {
       "quadrant": 1,
@@ -88,6 +88,13 @@
       "label": "Azure Cloud",
       "active": true,
       "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 3,
+      "label": "CEPH",
+      "active": true,
+      "moved": 2
     },
     {
       "quadrant": 2,
@@ -98,10 +105,10 @@
     },
     {
       "quadrant": 2,
-      "ring": 1,
+      "ring": 0,
       "label": "Bunny Storage",
       "active": true,
-      "moved": 0
+      "moved": 1
     },
     {
       "quadrant": 2,
