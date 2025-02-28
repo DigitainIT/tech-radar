@@ -13,7 +13,7 @@
       "quadrant": 3,
       "ring": 1,
       "label": "Spark ?",
-      "link": "https://engineering.zalando.com/tags/apache-spark.html",
+      "link": "https://spark.apache.org/",
       "active": true,
       "moved": 0
     },
@@ -22,7 +22,7 @@
     {
       "quadrant": 1,
       "ring": 0,
-      "label": " Hetzner",
+      "label": "Hetzner",
       "active": true,
       "moved": 0
     },
