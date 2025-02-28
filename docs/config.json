@@ -3,7 +3,7 @@
   "entries": [
     {
       "quadrant": 3,
-      "ring": 2,
+      "ring": 0,
       "label": "Spark",
       "link": "https://spark.apache.org/",
       "active": true,
