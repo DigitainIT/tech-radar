@@ -3,7 +3,7 @@
   "entries": [
     {
       "quadrant": 3,
-      "ring": 1,
+      "ring": 2,
       "label": "Spark",
       "link": "https://spark.apache.org/",
       "active": true,
@@ -496,13 +496,6 @@
       "quadrant": 3,
       "ring": 0,
       "label": "SSIS",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 0,
-      "label": "Apache Spark",
       "active": true,
       "moved": 0
     },
