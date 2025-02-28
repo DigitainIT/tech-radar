@@ -508,14 +508,14 @@
     },
     {
       "quadrant": 3,
-      "ring": 0,
+      "ring": 2,
       "label": "AirFlow",
       "active": true,
       "moved": 2
     },
     {
       "quadrant": 3,
-      "ring": 0,
+      "ring": 2,
       "label": "DBt",
       "active": true,
       "moved": 2
