@@ -312,6 +312,14 @@
     },
     {
       "quadrant": 1,
+      "ring": 0,
+      "label": "Appdynamics",
+      "link": "https://docs.appdynamics.com",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
       "ring": 1,
       "label": "Sentry",
       "link": "https://sentry.digitain.tools",
