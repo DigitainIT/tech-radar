@@ -287,6 +287,16 @@
     {
       "quadrant": 1,
       "ring": 0,
+      "label": "Vercel",
+      "link": "https://vercel.com",
+      "active": true,
+      "moved": 0
+    },
+
+
+    {
+      "quadrant": 1,
+      "ring": 0,
       "label": "Docker",
       "link": "https://www.docker.com/",
       "active": true,
@@ -313,6 +323,14 @@
       "ring": 0,
       "label": "IIS",
       "link": "https://www.iis.net/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "Rancher",
+      "link": "https://rancher.com",
       "active": true,
       "moved": 0
     },
@@ -382,9 +400,33 @@
     },
     {
       "quadrant": 0,
+      "ring": 2,
+      "label": "Next.js",
+      "link": "https://nextjs.org/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
       "ring": 0,
       "label": "ReactJS",
       "link": "https://reactjs.org/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "Unity",
+      "link": "https://engineering.zalando.com/tags/javascript.html",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 1,
+      "label": "UnrealEngine",
+      "link": "https://engineering.zalando.com/tags/javascript.html",
       "active": true,
       "moved": 0
     },
