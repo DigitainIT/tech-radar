@@ -251,6 +251,14 @@
     },
     {
       "quadrant": 1,
+      "ring": 0,
+      "label": "IIS",
+      "link": "https://www.iis.net/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
       "ring": 1,
       "label": "Kyverno",
       "link": "https://kyverno.io/",
