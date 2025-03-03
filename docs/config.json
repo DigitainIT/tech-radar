@@ -51,28 +51,28 @@
     },
     {
       "quadrant": 2,
-      "ring": 1,
+      "ring": 0,
       "label": "Azure SQL Managed Instance",
       "active": true,
       "moved": 2
     },
     {
       "quadrant": 2,
-      "ring": 1,
+      "ring": 0,
       "label": "Azure PostgreSQL Flexible",
       "active": true,
       "moved": 2
     },
     {
       "quadrant": 2,
-      "ring": 1,
+      "ring": 0,
       "label": "Oracle PostgreSQL AS Service",
       "active": true,
       "moved": 0
     },
     {
       "quadrant": 2,
-      "ring": 1,
+      "ring": 0,
       "label": "ClikHouse",
       "active": true,
       "moved": 0
