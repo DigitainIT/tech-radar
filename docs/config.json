@@ -519,14 +519,6 @@
       "moved": 0
     },
     {
-      "quadrant": 3,
-      "ring": 2,
-      "label": "NATS",
-      "link": "https://nats.io/",
-      "active": true,
-      "moved": 0
-    },
-    {
       "quadrant": 2,
       "ring": 2,
       "label": "ScyllaDB",
