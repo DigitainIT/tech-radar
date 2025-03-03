@@ -496,7 +496,7 @@
     },
     {
       "quadrant": 0,
-      "ring": 3,
+      "ring": 0,
       "label": "Swift",
       "link": "https://developer.apple.com/swift/",
       "active": true,
