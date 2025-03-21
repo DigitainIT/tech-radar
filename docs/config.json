@@ -564,6 +564,13 @@
       "moved": 2
     },
     {
+      "quadrant": 0,
+      "ring": 2,
+      "label": "TestAnna",
+      "active": true,
+      "moved": 2
+    },
+    {
       "quadrant": 3,
       "ring": 2,
       "label": "DBt",
